@@ -1,0 +1,5 @@
+{
+  "directory": "public/vendors",
+  "strict-ssl": true,
+  "timeout": 60000
+}

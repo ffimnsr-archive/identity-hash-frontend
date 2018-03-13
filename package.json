@@ -1,0 +1,35 @@
+{
+  "name": "0-alchemy-fe",
+  "version": "0.1.0",
+  "description": "Identity Hash frontend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/ffilabs/0-alchemy-fe.git"
+  },
+  "keywords": [
+    "alchemy",
+    "frontend",
+    "identity-hash"
+  ],
+  "author": "ffimusic",
+  "license": "MIT",
+  "homepage": "https://identity-hash.online",
+  "dependencies": {
+    "autoprefixer": "^6.7.7",
+    "cssnano": "^3.10.0",
+    "express": "^4.14.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.1",
+    "lost": "^8.0.0",
+    "precss": "^1.4.0",
+    "serve-static": "^1.11.2"
+  }
+}
